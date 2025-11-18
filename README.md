@@ -24,4 +24,4 @@ Explain the difference between the methods and explain when you would choose one
 
 ### Response
 
-Add your response here...
+`findIndex` is a callback method that allows you to do something similar to the `indexOf` method but with a twist, you can use logic. `indexOf` gets the first of an element that looks like what you give it but findIndex lets you find an element using that method or even a test via logic.
